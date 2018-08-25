@@ -1,2 +1,2 @@
-const companyName = 'Scuber';s
-let mostProfitableNeighborhood = 'Chelsea'
+const companyName = 'Scuber';
+let mostProfitableNeighborhood = 'Chelsea';
